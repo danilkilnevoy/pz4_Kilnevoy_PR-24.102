@@ -1,3 +1,5 @@
 Методы api
 GET /items
 POST /login
+POST /register
+GET /profile
